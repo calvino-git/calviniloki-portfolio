@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "B2 Intermediate level (ESL)",
+    duration: "July 2015 - Sept. 2016",
+    institution: "CELPS \nLearning Speaking, Reading, Writing and Listening \nAccra, GHANA",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Master’s degree in Computer Science",
+    duration: "Nov. 2012 – Mar. 2015",
+    institution: "System Administration, Networking, Software Engineering and Telecom \nSciences and Techniques Faculty \nUniversity Cheikh Anta Diop \nDakar, SENEGAL",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Bachelor’s degree in Applied Mathematics",
+    duration: "Nov. 2008 – July 2012",
+    institution: "Logic and Algebra;Topology; Measure, Integral and Probability\nSciences and Techniques Faculty \nUniversity Cheikh Anta Diop \nDakar, SENEGAL",
   }
 ]
